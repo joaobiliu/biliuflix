@@ -1,20 +1,20 @@
 import React from 'react';
-
-import Logo from '../../assets/LogoBiliu.png'
-import './menu.css';
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/Logoo.png'
 import Button from '../Button';
+import { LogoImage, MenuWrapper } from './style';
 
 function Menu() {
     return(
-        <nav className="Menu">
-            <a href="/">
-                <img className="Logo" src={Logo} alt="Biliuflix"/>
-            </a>
+        <MenuWrapper className="Menu">
+            <Link to="/">
+                <LogoImage className="Logo" src={Logo} alt="Biliuflix"/>
+            </Link>
 
-            <Button as="a" className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo Vídeo
             </Button>
-        </nav>
+        </MenuWrapper>
     );
 }
 

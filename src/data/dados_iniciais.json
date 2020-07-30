@@ -1,45 +1,56 @@
 {
   "categorias": [
     {
-      "titulo": "Vídeos de Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Filmes de Santos",
+      "link": "https://youtu.be/watch?v=E4vAkCOC9Ek",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Só se ama aquilo que se conhece - Santo Agostinho",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
+      
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Santa Rita de Cássia",
+          "url": "https://www.youtube.com/watch?v=-zzGODA51WM"
+        },
+        
+        {
+          "titulo": "Santa Faustina",
+          "url": "https://www.youtube.com/watch?v=-zzGODA51WM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Santa Teresa de Ávila",
+          "url": "https://youtu.be/watch?v=EA-SrDzr_Q0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Santa Teresinha",
+          "url": "https://youtu.be/watch?v=tiinM-8EYfw",
+          "url": "https://youtu.be/watch?v=N76Mb6U_mXY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Santa Catarina de Labouré",
+          "url": "https://youtu.be/watch?v=jgs9JgZdPCs"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "São Josemaria Escrivá",
+          "url": "https://youtu.be/watch?v=nbJu3-bv1gg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
+          "titulo": "Santa Bernadete",
+          "url": "https://youtu.be/watch?v=YoNePpyMu6E"
+        }    ,    
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
+          "titulo": "Dr. Giuseppe Moscati",
+          "url": "https://youtu.be/watch?v=YoNePpyMu6E"
+        }     ,   
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "São João da Cruz",
+          "url": "https://youtu.be/watch?v=ljR7V5tJ0zs"
+        }      ,  
+        {
+          "titulo": "Damião",
+          "url": "https://youtu.be/NHwHKBTmQE0"
         }        
       ]
     },

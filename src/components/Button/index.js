@@ -16,9 +16,23 @@ export const Button = styled.button`
     transition: opacity .3s;
 
     &:hover,
-    &:focus {
-    opacity: .5;
-  }
+    &:focus{
+        opacity: .5;
+    }
+
+    @media(max-width: 800px) {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: var(--primary);
+        color: var(--white);
+        outline: 0;
+        text-align: center;
+        border-radius: 0;
+        border: 0;
+        text-align: center;
+    }
 `;
 
 export default Button;

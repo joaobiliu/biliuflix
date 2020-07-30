@@ -7,7 +7,7 @@ export const ContentAreaContainer = styled.section`
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  position: relative ;
   z-index: 10;
   @media (max-width: 800px) {
     padding-top: 100px;
